@@ -34,7 +34,7 @@ export class ShoppingCart extends Component {
 /*
 function connect(mapStateToProps, mapDispatchToProps) {
 	return function(ourComponent) {
-		// it passes in sate, as well as actions, via props
+		// it passes in state, as well as actions, via props
 	}
 }
 */
