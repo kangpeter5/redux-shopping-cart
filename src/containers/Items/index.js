@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from "react-redux";
 import { addToCart } from '../../actions';
-import './Items.css';
+import './items.css';
 
 export class Items extends Component {
 
